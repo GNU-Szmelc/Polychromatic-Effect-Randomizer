@@ -1,5 +1,5 @@
 # Polychromatic-Effect-Randomizer
-Randomizes HEX and pattern for Polychromatic package
+Randomizes HEX and pattern for custom Polychromatic effects
 
 ## Usage:
 run
